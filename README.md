@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @victoria-igbobi65
+- 👋 Hi, I’m @victoria-igbobi
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me victoriaigbobi65@gmail.com
