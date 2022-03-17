@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @victoria-igbobi
-- 🌱 I’m currently learning python, fastapi
+- 🌱 I’m currently learning python and fastapi
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me victoriaigbobi65@gmail.com
 
