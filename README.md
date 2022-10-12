@@ -1,7 +1,8 @@
 - 👋 Hi, I’m victoria igbobi
-- 🌱 I currently have python, fastApi and Javascript skills 
+- 🌱 I currently have python, fastApi, Javascript and Nodejs skill.
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me victoriaigbobi65@gmail.com
+- pronoun she|| her
 
 <!---
 victoria-igbobi65/victoria-igbobi65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
