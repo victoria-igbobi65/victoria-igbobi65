@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **victoriaigbobi65@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XyEFEtCz4a195sFNGyLDSZjsCYqSybIL/view?usp=drivesdk](https://drive.google.com/file/d/1XyEFEtCz4a195sFNGyLDSZjsCYqSybIL/view?usp=drivesdk)
+
 
 - ⚡ Fun fact **I love reading 🥰**
 
