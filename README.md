@@ -3,7 +3,7 @@
 <h3 align="center">A passionate backend developer from Nigeria</h3>
 
 
-<p align="left"> <a href="https://twitter.com/httpsIgbobiVictoria" target="blank"><img src="https://img.shields.io/twitter/follow/httpsigbobivictoria?logo=twitter&style=for-the-badge" alt="igbobivictoria" /></a> </p>
+<p align="left"> <a href="https://twitter.com/IgbobiVictoria" target="blank"><img src="https://img.shields.io/twitter/follow/httpsigbobivictoria?logo=twitter&style=for-the-badge" alt="igbobivictoria" /></a> </p>
 
 - 🔭 I’m currently working on a music API that integrates Spotify web API to render real music data about artists, tracks, albums and various playlists. User can stream music and get recommendations based on their listening history, they could also get related tracks to a particular track as well as related artists [My music API](https://github.com/victoria-igbobi65/Music_API)
 
