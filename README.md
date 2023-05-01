@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/IgbobiVictoria" target="blank"><img src="https://img.shields.io/twitter/follow/httpsigbobivictoria?logo=twitter&style=for-the-badge" alt="igbobivictoria" /></a> </p>
 
-- 🔭 I’m currently working on a stock tracking API where staffs can take stock of available products and admin can get trigger alerts when a particular stock is low in stock and they can also get suggestions on days to stock up particular products(https://github.com/victoria-igbobi65/stock-tracking-api)
+- 🔭 I’m currently working on a stock tracking API where staffs can take stock of available products and admin can get trigger alerts when a particular stock is low in stock and they can also get suggestions on days to stock up particular products (https://github.com/victoria-igbobi65/stock-tracking-api)
 
-- 🌱 I’m currently learning **Nestjs postgres**
+- 🌱 I’m currently learning **Nestjs**
 
 - 👯 I’m looking to collaborate on open source projects, love collaborating and building projects.
 
